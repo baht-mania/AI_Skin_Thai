@@ -39,12 +39,14 @@
             "id": "20c1834018c6dc73",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "5. 자료/AGENTVERSE_The_Future_of_Games.pdf"
+                "file": "5. 자료/telegram-claude-bot/SETUP_GUIDE.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "AGENTVERSE_The_Future_of_Games"
+              "icon": "lucide-file",
+              "title": "SETUP_GUIDE"
             }
           }
         ],
@@ -121,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. 자료/AGENTVERSE_The_Future_of_Games.pdf",
+                "file": "5. 자료/telegram-claude-bot/SETUP_GUIDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "AGENTVERSE_The_Future_of_Games 의 백링크"
+              "title": "SETUP_GUIDE 의 백링크"
             }
           },
           {
@@ -211,8 +213,11 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "file-explorer",
+  "active": "20c1834018c6dc73",
   "lastOpenFiles": [
+    "5. 자료/keynote-executive-summary-kr.md",
+    "5. 자료/Frost Frontier 출장 계획_260304.pdf",
+    "5. 자료/AGENTVERSE_The_Future_of_Games.pdf",
     "5. 자료/AGENTVERSE_ THE FUTURE OF GAMES — KEYNOTE SCRIPT.pdf",
     "웹샵.md",
     "TASKS.md",
@@ -225,15 +230,12 @@
     "5. 자료/크로쓰아이템/~$템크로스_전략기획안_v0.5.docx",
     "5. 자료/크로쓰아이템/아이템크로스_전략기획안_v0.5.docx",
     "5. 자료/크로쓰아이템/미확인 340049.crdownload",
-    "5. 자료/keynote-executive-summary-kr.md",
-    "5. 자료/AGENTVERSE_The_Future_of_Games.pdf",
     "5. 자료/AGENTVERSE_ The Future of Games.pptx",
     "4. 장대표님 미팅/게임사업부 주간보고 — 3월 2주차 (3.3~3.7).md",
     "0. 대화 기록/2026-03-09 데일리 리뷰.md",
     "obsidian-vault",
     "5. 자료/telegram-claude-bot/claude-telegram-bot/Dockerfile",
     "5. 자료/telegram-claude-bot/claude-telegram-bot/workspace.code-workspace",
-    "5. 자료/telegram-claude-bot/claude-telegram-bot/railway.toml",
     "5. 자료/telegram-claude-bot/SETUP_GUIDE.md",
     "0. 대화 기록/2026-03-07 CLAUDE.md 자동화 규칙 추가.md",
     "4. 장대표님 미팅/장현국 대표님 회의_1차_2월 25일.md",
