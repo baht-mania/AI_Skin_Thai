@@ -14,6 +14,8 @@
 **브랜드 전략:** 올리브영의 'FULLMOON' 전략 — "온전한 나"를 의미하며, 단순 선케어를 넘어 수면 건강식품, 홈케어, 이너뷰티 등 라이프스타일 전반을 아우르는 웰니스 플랫폼.
 
 **Tech Stack:** HTML/CSS/JS (프로토타입) → Next.js + TypeScript + MediaPipe Face Mesh + OpenCV.js (프로덕션 예정)
+**배포 URL:** https://k-sun-shield.vercel.app (Vercel, 2026-03-15 배포)
+**Vercel 프로젝트:** `baht-manias-projects/k-sun-shield`
 **파트너:** 한국콜마(제품/처방), 태국 세븐일레븐(유통), TrueMoney(결제)
 **타겟 시장:** 태국 우선 → 동남아 확장 (베트남, 말레이시아, 인도네시아, 필리핀)
 
