@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. 프로젝트/K-Sun Shield by FULLMOON.md",
+                "file": "TASKS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K-Sun Shield by FULLMOON"
+              "title": "TASKS"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. 프로젝트/K-Sun Shield by FULLMOON.md",
+                "file": "TASKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "K-Sun Shield by FULLMOON 의 백링크"
+              "title": "TASKS 의 백링크"
             }
           },
           {
@@ -215,6 +215,7 @@
   },
   "active": "20c1834018c6dc73",
   "lastOpenFiles": [
+    "2. 프로젝트/K-Sun Shield by FULLMOON.md",
     "k-sun-shield",
     "AI_Skin_Thai/🏠 홈.md",
     "AI_Skin_Thai/템플릿/프로젝트 템플릿.md",
@@ -235,7 +236,6 @@
     "AI_Skin_Thai/5. 자료/크로쓰아이템/아이템크로스_전략기획안_v0.5.docx",
     "AI_Skin_Thai/5. 자료/크로쓰아이템/시장 조사_바로템 및 아이템매니아.pdf",
     "AI_Skin_Thai/5. 자료/크로쓰아이템/블록체인 기반 게임 아이템 거래 플랫폼 사업제안서_draft.pdf",
-    "AI_Skin_Thai/5. 자료/크로쓰아이템/블록체인 게임 아이템 플랫폼 킥오프 미팅 플랜.pdf",
     "AI_Skin_Thai/5. 자료/크로쓰아이템/Gemini_Generated_Image_tblmxotblmxotblm.png",
     "AI_Skin_Thai/5. 자료/미국 출장/6. 전준영_ESTA 비자 발급 수수료.png",
     "AI_Skin_Thai/5. 자료/기타 자료/크레이지 마인드 2차 PF.png",
