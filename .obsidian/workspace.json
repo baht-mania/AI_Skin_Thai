@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4976fefe1943f123",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "신규 프로젝트 (태국 화장품 사업).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "신규 프로젝트 (태국 화장품 사업)"
-            }
-          },
-          {
-            "id": "ece99c387fab3dd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "웹샵.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "웹샵"
-            }
-          },
-          {
             "id": "20c1834018c6dc73",
             "type": "leaf",
             "state": {
@@ -49,8 +21,7 @@
               "title": "TASKS"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,6 +186,9 @@
   },
   "active": "20c1834018c6dc73",
   "lastOpenFiles": [
+    "신규 프로젝트 (태국 화장품 사업).md",
+    "TASKS.md",
+    "웹샵.md",
     "5. 자료/telegram-claude-bot/claude-telegram-bot/__pycache__/bot.cpython-314.pyc",
     "5. 자료/telegram-claude-bot/claude-telegram-bot/__pycache__",
     "5. 자료/telegram-claude-bot/claude-telegram-bot/bot.py",
@@ -225,7 +199,6 @@
     "5. 자료/중국 출장/미확인 598185.crdownload",
     "5. 자료/중국 출장/[NEXUS] 전준영님 3월 18일 2박 Crowne Plaza Fuzhou Riverside by IHG 결제영수증.pdf",
     "5. 자료/중국 출장/JEON_JUNEYOUNG MR_2026031661527998.pdf",
-    "5. 자료/중국 출장",
     "2. 프로젝트/K-Sun Shield by FULLMOON.md",
     "AI_Skin_Thai/🏠 홈.md",
     "AI_Skin_Thai/템플릿/프로젝트 템플릿.md",
@@ -252,8 +225,6 @@
     "AI_Skin_Thai/4. 장대표님 미팅/로한2 넥스트마켓 연동 관련.md",
     "AI_Skin_Thai/4. 장대표님 미팅/게임사업부 주간보고 — 3월 3주차 (3.10~3.14).md",
     "AI_Skin_Thai/4. 장대표님 미팅/게임사업부 주간보고 — 3월 2주차 (3.3~3.7).md",
-    "AI_Skin_Thai/3. 미팅/2월 개발실 회의_2월 27일.md",
-    "AI_Skin_Thai/3. 미팅/임종훈 지사장 회의 2월 25일.md",
     "5. 자료/크로쓰아이템/Gemini_Generated_Image_tblmxotblmxotblm.png",
     "5. 자료/미국 출장/6. 전준영_ESTA 비자 발급 수수료.png",
     "5. 자료/미국 출장/5. 전준영_ESTA 비자 발급 수수료.png",
