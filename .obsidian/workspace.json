@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TASKS.md",
+                "file": "0. 대화 기록/2026-03-17 데일리 리뷰.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TASKS"
+              "title": "2026-03-17 데일리 리뷰"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASKS.md",
+                "file": "0. 대화 기록/2026-03-17 데일리 리뷰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "TASKS 의 백링크"
+              "title": "2026-03-17 데일리 리뷰 의 백링크"
             }
           },
           {
@@ -186,10 +186,10 @@
   },
   "active": "20c1834018c6dc73",
   "lastOpenFiles": [
+    "TASKS.md",
     "0. 대화 기록/2026-03-17 데일리 리뷰.md",
     "0. 대화 기록/2026-03-16 텔레그램 봇 TASKS.md 동기화.md",
     "신규 프로젝트 (태국 화장품 사업).md",
-    "TASKS.md",
     "웹샵.md",
     "5. 자료/telegram-claude-bot/claude-telegram-bot/__pycache__/bot.cpython-314.pyc",
     "5. 자료/telegram-claude-bot/claude-telegram-bot/__pycache__",
