@@ -202,6 +202,7 @@
   },
   "active": "20c1834018c6dc73",
   "lastOpenFiles": [
+    "5. 자료/MiroFish/frontend/public/favicon.svg",
     "5. 자료/MiroFish/frontend/dist/index.html",
     "5. 자료/MiroFish/frontend/dist/assets/index-BktM8Zaz.css",
     "5. 자료/MiroFish/frontend/dist/assets/index-B-cDyOnd.js",
@@ -214,7 +215,6 @@
     "5. 자료/MiroFish/frontend/dist/assets/index-CSnDWADg.js",
     "5. 자료/MiroFish/frontend/src/views/LoginView.vue",
     "5. 자료/MiroFish/frontend/src/composables/useAuth.js",
-    "5. 자료/MiroFish/frontend/src/lib/supabase.js",
     "5. 자료/MiroFish/frontend/node_modules/@supabase/auth-js/README.md",
     "5. 자료/MiroFish/frontend/node_modules/@types/phoenix/README.md",
     "5. 자료/MiroFish/frontend/node_modules/@supabase/storage-js/README.md",
