@@ -202,11 +202,14 @@
   },
   "active": "20c1834018c6dc73",
   "lastOpenFiles": [
-    "5. 자료/MiroFish/frontend/public/favicon.svg",
     "5. 자료/MiroFish/frontend/dist/index.html",
+    "5. 자료/MiroFish/frontend/dist/assets/index-DOAMtEYj.js",
+    "5. 자료/MiroFish/frontend/dist/assets/index-VRB7Xxbw.css",
+    "5. 자료/MiroFish/frontend/dist/assets",
+    "5. 자료/MiroFish/frontend/dist/favicon.svg",
+    "5. 자료/MiroFish/frontend/public/favicon.svg",
     "5. 자료/MiroFish/frontend/dist/assets/index-BktM8Zaz.css",
     "5. 자료/MiroFish/frontend/dist/assets/index-B-cDyOnd.js",
-    "5. 자료/MiroFish/frontend/dist/assets",
     "2. 프로젝트/MiroFish - Molty Royale 중국 시장 시뮬레이션 보고서.md",
     "5. 자료/MiroFish/frontend/dist/assets/index-Dn0zNIv4.js",
     "5. 자료/MiroFish/frontend/dist/assets/index-CEdDU-fS.css",
@@ -214,7 +217,6 @@
     "5. 자료/MiroFish/frontend/dist/assets/index-ST62XZ-h.css",
     "5. 자료/MiroFish/frontend/dist/assets/index-CSnDWADg.js",
     "5. 자료/MiroFish/frontend/src/views/LoginView.vue",
-    "5. 자료/MiroFish/frontend/src/composables/useAuth.js",
     "5. 자료/MiroFish/frontend/node_modules/@supabase/auth-js/README.md",
     "5. 자료/MiroFish/frontend/node_modules/@types/phoenix/README.md",
     "5. 자료/MiroFish/frontend/node_modules/@supabase/storage-js/README.md",
@@ -246,8 +248,6 @@
     "5. 자료/MiroFish/frontend/src/assets/logo/MiroFish_logo_compressed.jpeg",
     "5. 자료/MiroFish/static/image/Screenshot/运行截图6.png",
     "5. 자료/MiroFish/static/image/Screenshot/运行截图5.png",
-    "5. 자료/MiroFish/static/image/Screenshot/运行截图4.png",
-    "5. 자료/MiroFish/static/image/Screenshot/运行截图3.png",
     "무제.canvas",
     "Untitled.canvas"
   ]
