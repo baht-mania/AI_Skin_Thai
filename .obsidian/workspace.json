@@ -11,10 +11,14 @@
             "id": "20c1834018c6dc73",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "TASKS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TASKS"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TASKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "TASKS 의 백링크"
             }
           },
           {
@@ -181,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -202,6 +207,11 @@
   },
   "active": "20c1834018c6dc73",
   "lastOpenFiles": [
+    "4. 장대표님 미팅/장대표님 미팅_3월 17일.md",
+    "GDC 페이지 수정사항.md",
+    "웹샵.md",
+    "원어스라이징.md",
+    "무제.canvas",
     "5. 자료/MiroFish/backend/wsgi.py",
     "4. 프로젝트/Consilium/2026-03-22 운영 교훈.md",
     "4. 프로젝트/Consilium",
@@ -213,7 +223,6 @@
     "5. 자료/MiroFish/frontend/dist/assets/SharedReportView-PDwf2jkb.css",
     "5. 자료/MiroFish/frontend/dist/assets/SampleReportView-DlowJdki.js",
     "5. 자료/MiroFish/frontend/dist/assets/SampleReportView-Br9SIO7s.css",
-    "5. 자료/MiroFish/frontend/dist/assets/CompareView-cf_usWEu.js",
     "5. 자료/Consilium/Consilium 개발 로그 - 2026-03-22.md",
     "5. 자료/MiroFish/frontend/node_modules/jspdf/README.md",
     "5. 자료/MiroFish/frontend/node_modules/core-js/stage/README.md",
@@ -235,9 +244,6 @@
     "5. 자료/MiroFish/frontend/node_modules/fflate/README.md",
     "5. 자료/MiroFish/frontend/node_modules/core-js/stable/README.md",
     "5. 자료/MiroFish/frontend/node_modules/text-segmentation/CHANGELOG.md",
-    "5. 자료/MiroFish/frontend/node_modules/fflate/CHANGELOG.md",
-    "5. 자료/MiroFish/frontend/node_modules/core-js/full/README.md",
-    "5. 자료/MiroFish/frontend/node_modules/core-js/es/README.md",
     "5. 자료/MiroFish/frontend/dist/favicon.svg",
     "5. 자료/MiroFish/frontend/public/favicon.svg",
     "5. 자료/MiroFish/frontend/dist/assets/MiroFish_logo_left-Bf5baAoU.jpeg",
@@ -248,7 +254,6 @@
     "5. 자료/MiroFish/frontend/src/assets/logo/MiroFish_logo_compressed.jpeg",
     "5. 자료/MiroFish/static/image/Screenshot/运行截图6.png",
     "5. 자료/MiroFish/static/image/Screenshot/运行截图5.png",
-    "무제.canvas",
     "Untitled.canvas"
   ]
 }
