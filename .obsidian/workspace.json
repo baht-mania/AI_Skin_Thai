@@ -207,6 +207,10 @@
   },
   "active": "20c1834018c6dc73",
   "lastOpenFiles": [
+    "5. 자료/MiroFish/backend/uploads/reports/report_56c05c731e84/section_02.md",
+    "5. 자료/MiroFish/backend/uploads/simulations/sim_703abe6c2494/ipc_responses/584efcc5-6c0b-49bf-8162-1c2edc64f166.json",
+    "5. 자료/MiroFish/backend/uploads/simulations/sim_703abe6c2494/ipc_commands/584efcc5-6c0b-49bf-8162-1c2edc64f166.json",
+    "5. 자료/MiroFish/backend/uploads/reports/report_56c05c731e84/section_01.md",
     "5. 자료/MiroFish/backend/uploads/simulations/sim_703abe6c2494/ipc_responses/e630988f-f8ba-47e2-bf8e-f65220e72425.json",
     "5. 자료/MiroFish/backend/uploads/simulations/sim_703abe6c2494/ipc_commands/e630988f-f8ba-47e2-bf8e-f65220e72425.json",
     "5. 자료/MiroFish/backend/uploads/reports/report_56c05c731e84/outline.json",
@@ -215,9 +219,6 @@
     "5. 자료/MiroFish/backend/uploads/reports/report_56c05c731e84/console_log.txt",
     "5. 자료/MiroFish/backend/uploads/reports/report_56c05c731e84/agent_log.jsonl",
     "5. 자료/MiroFish/backend/uploads/reports/report_56c05c731e84",
-    "5. 자료/MiroFish/backend/uploads/simulations/sim_703abe6c2494/env_status.json",
-    "5. 자료/MiroFish/backend/uploads/simulations/sim_703abe6c2494/twitter/actions.jsonl",
-    "5. 자료/MiroFish/backend/uploads/simulations/sim_703abe6c2494/twitter_simulation.db",
     "5. 자료/MiroFish/backend/venv/lib/python3.11/site-packages/camel/benchmarks/mock_website/README.md",
     "5. 자료/MiroFish/backend/venv/lib/python3.11/site-packages/sentence_transformers/model_card_template.md",
     "5. 자료/MiroFish/backend/venv/lib/python3.11/site-packages/unstructured-0.13.7.dist-info/LICENSE.md",
@@ -252,7 +253,6 @@
     "5. 자료/MiroFish/backend/venv/lib/python3.11/site-packages/numpy-2.4.3.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md",
     "5. 자료/MiroFish/backend/venv/lib/python3.11/site-packages/numpy-2.4.3.dist-info/licenses/numpy/random/src/philox/LICENSE.md",
     "5. 자료/MiroFish/backend/venv/lib/python3.11/site-packages/numpy-2.4.3.dist-info/licenses/numpy/random/src/sfc64/LICENSE.md",
-    "5. 자료/MiroFish/backend/venv/lib/python3.11/site-packages/numpy-2.4.3.dist-info/licenses/numpy/random/src/pcg64/LICENSE.md",
     "무제.canvas",
     "Untitled.canvas"
   ]
