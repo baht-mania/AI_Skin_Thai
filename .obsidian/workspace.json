@@ -207,6 +207,8 @@
   },
   "active": "20c1834018c6dc73",
   "lastOpenFiles": [
+    "5. 자료/MiroFish/backend/uploads/reports/report_56c05c731e84/full_report.md",
+    "5. 자료/MiroFish/backend/uploads/reports/report_56c05c731e84/section_04.md",
     "5. 자료/MiroFish/backend/uploads/simulations/sim_703abe6c2494/ipc_responses/16c0c705-3d23-4719-bc4d-f044b36d5309.json",
     "5. 자료/MiroFish/backend/uploads/simulations/sim_703abe6c2494/ipc_commands/16c0c705-3d23-4719-bc4d-f044b36d5309.json",
     "5. 자료/MiroFish/backend/uploads/reports/report_56c05c731e84/section_03.md",
@@ -220,7 +222,6 @@
     "5. 자료/MiroFish/backend/uploads/simulations/sim_703abe6c2494/ipc_commands/e630988f-f8ba-47e2-bf8e-f65220e72425.json",
     "5. 자료/MiroFish/backend/uploads/reports/report_56c05c731e84/outline.json",
     "5. 자료/MiroFish/backend/uploads/reports/report_56c05c731e84/progress.json",
-    "5. 자료/MiroFish/backend/uploads/reports/report_56c05c731e84/meta.json",
     "5. 자료/MiroFish/backend/venv/lib/python3.11/site-packages/camel/benchmarks/mock_website/README.md",
     "5. 자료/MiroFish/backend/venv/lib/python3.11/site-packages/sentence_transformers/model_card_template.md",
     "5. 자료/MiroFish/backend/venv/lib/python3.11/site-packages/unstructured-0.13.7.dist-info/LICENSE.md",
@@ -252,7 +253,6 @@
     "5. 자료/MiroFish/backend/venv/lib/python3.11/site-packages/networkx/drawing/tests/baseline/test_display_labels_and_colors.png",
     "5. 자료/MiroFish/backend/venv/lib/python3.11/site-packages/networkx/drawing/tests/baseline/test_display_house_with_colors.png",
     "5. 자료/MiroFish/backend/venv/lib/python3.11/site-packages/numpy-2.4.3.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
-    "5. 자료/MiroFish/backend/venv/lib/python3.11/site-packages/numpy-2.4.3.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md",
     "무제.canvas",
     "Untitled.canvas"
   ]
