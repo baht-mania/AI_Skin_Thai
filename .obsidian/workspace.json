@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. 대화 기록/2026-03-20 데일리 리뷰.md",
+                "file": "세시소프트_3월 24일.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-20 데일리 리뷰"
+              "title": "세시소프트_3월 24일"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 대화 기록/2026-03-20 데일리 리뷰.md",
+                "file": "세시소프트_3월 24일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-03-20 데일리 리뷰 의 백링크"
+              "title": "세시소프트_3월 24일 의 백링크"
             }
           },
           {
@@ -237,6 +237,7 @@
   "active": "3fd7f27be181ba00",
   "lastOpenFiles": [
     "3. 미팅/3월 개발실 회의_3월 25일.md",
+    "0. 대화 기록/2026-03-20 데일리 리뷰.md",
     "5. 자료/Consilium_Dev/backend/uploads/reports/report_40f4afda07f3/report_deck.pptx",
     "5. 자료/Consilium_Dev/backend/app/services/__pycache__/ppt_generator.cpython-312.pyc",
     "5. 자료/Consilium_Dev/backend/logs/2026-03-25.log",
@@ -281,7 +282,6 @@
     "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/sklearn/externals/array_api_compat/README.md",
     "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/scipy/fft/_pocketfft/LICENSE.md",
     "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/pip/_vendor/idna/LICENSE.md",
-    "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/camel/benchmarks/mock_website/README.md",
     "무제.canvas",
     "Untitled.canvas"
   ]
