@@ -236,6 +236,7 @@
   },
   "active": "3fd7f27be181ba00",
   "lastOpenFiles": [
+    "5. 자료/Consilium_Dev/backend/app/repositories/jobs.py",
     "0. 대화 기록/2026-03-25.md",
     "5. 자료/MiroFish/backend/uploads/projects/proj_5493403e1885/files/88e3ccb0.pdf",
     "5. 자료/MiroFish/backend/uploads/projects/proj_5493403e1885/files/073b1f92.pdf",
@@ -281,7 +282,6 @@
     "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/camel/benchmarks/mock_website/README.md",
     "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/uvicorn-0.42.0.dist-info/licenses/LICENSE.md",
     "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/unstructured_client-0.42.10.dist-info/licenses/LICENSE.md",
-    "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/starlette-1.0.0.dist-info/licenses/LICENSE.md",
     "무제.canvas",
     "Untitled.canvas"
   ]
