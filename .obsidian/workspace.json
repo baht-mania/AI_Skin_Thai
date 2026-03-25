@@ -236,6 +236,8 @@
   },
   "active": "3fd7f27be181ba00",
   "lastOpenFiles": [
+    "5. 자료/Consilium_Dev/backend/app/__pycache__/health.cpython-314.pyc",
+    "5. 자료/Consilium_Dev/backend/app/health.py",
     "5. 자료/Consilium_Dev/supabase/migrations/20260325_003_enable_job_rls.sql",
     "0. 대화 기록/2026-03-25 데일리 리뷰.md",
     "5. 자료/Consilium_Dev/backend/app/__pycache__/job_helpers.cpython-314.pyc",
@@ -247,8 +249,6 @@
     "5. 자료/Consilium_Dev/backend/app/repositories/jobs.py",
     "0. 대화 기록/2026-03-25.md",
     "5. 자료/MiroFish/backend/uploads/projects/proj_5493403e1885/files/88e3ccb0.pdf",
-    "5. 자료/MiroFish/backend/uploads/projects/proj_5493403e1885/files/073b1f92.pdf",
-    "5. 자료/MiroFish/backend/uploads/projects/proj_5493403e1885/project.json",
     "5. 자료/Consilium_Dev/docs/supabase-job-queue-migration-plan.md",
     "5. 자료/Consilium_Dev/docs/public-web-architecture.md",
     "5. 자료/Consilium_Dev/docs/phase1-implementation-todo.md",
