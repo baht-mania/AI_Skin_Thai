@@ -236,6 +236,7 @@
   },
   "active": "3fd7f27be181ba00",
   "lastOpenFiles": [
+    "5. 자료/Consilium_Dev/supabase/migrations/20260325_003_enable_job_rls.sql",
     "0. 대화 기록/2026-03-25 데일리 리뷰.md",
     "5. 자료/Consilium_Dev/backend/app/__pycache__/job_helpers.cpython-314.pyc",
     "5. 자료/Consilium_Dev/supabase/migrations/20260325_002_create_job_events.sql",
@@ -281,7 +282,6 @@
     "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/pip/_vendor/idna/LICENSE.md",
     "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/camel/benchmarks/mock_website/README.md",
     "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/uvicorn-0.42.0.dist-info/licenses/LICENSE.md",
-    "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/unstructured_client-0.42.10.dist-info/licenses/LICENSE.md",
     "무제.canvas",
     "Untitled.canvas"
   ]
