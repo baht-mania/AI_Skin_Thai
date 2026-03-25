@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-03-19.md",
+                "file": "TASKS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-19"
+              "title": "TASKS"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-03-19.md",
+                "file": "TASKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-03-19 의 백링크"
+              "title": "TASKS 의 백링크"
             }
           },
           {
@@ -236,6 +236,9 @@
   },
   "active": "3fd7f27be181ba00",
   "lastOpenFiles": [
+    "GDC 페이지 수정사항.md",
+    "3. 미팅/세시소프트_3월 24일.md",
+    "2026-03-19.md",
     "5. 자료/Consilium_Dev/frontend/dist/assets/CompareView-DkhOjnhd.js",
     "5. 자료/Consilium_Dev/frontend/dist/assets/index-YG7TvQJX.js",
     "5. 자료/Consilium_Dev/frontend/dist/assets/AdminView-B7JT_ZOc.js",
@@ -247,7 +250,6 @@
     "5. 자료/Consilium_Dev/backend/uploads/reports/report_40f4afda07f3/podcast_audio.wav",
     "5. 자료/Consilium_Dev/backend/app/services/__pycache__/podcast_audio_generator.cpython-312.pyc",
     "5. 자료/Consilium_Dev/backend/app/services/__pycache__/podcast_audio_generator.cpython-314.pyc",
-    "5. 자료/Consilium_Dev/backend/app/services/podcast_audio_generator.py",
     "5. 자료/Consilium_Dev/docs/commercialization-roadmap.md",
     "무제.canvas",
     "3. 프로젝트/Consilium/코드 리뷰 - Codex 2026-03-24.md",
@@ -257,7 +259,6 @@
     "3. 미팅/씨댄스 2.0.md",
     "3. 미팅/웹샵.md",
     "3. 미팅/원어스라이징.md",
-    "세시소프트_3월 24일.md",
     "5. 자료/Consilium_Dev/Consilium 상품화 기능 로드맵.md",
     "5. 자료/Consilium_Dev/backend/uploads/reports/report_40f4afda07f3/podcast_script.md",
     "3. 미팅/3월 개발실 회의_3월 25일.md",
@@ -272,7 +273,6 @@
     "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/pip-26.0.1.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
     "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/numpy-2.4.3.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md",
     "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/numpy-2.4.3.dist-info/licenses/numpy/random/src/sfc64/LICENSE.md",
-    "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/numpy-2.4.3.dist-info/licenses/numpy/random/src/philox/LICENSE.md",
     "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/networkx/drawing/tests/baseline/test_display_empty_graph.png",
     "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/networkx/drawing/tests/baseline/test_display_house_with_colors.png",
     "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/networkx/drawing/tests/baseline/test_house_with_colors.png",
