@@ -236,6 +236,10 @@
   },
   "active": "3fd7f27be181ba00",
   "lastOpenFiles": [
+    "5. 자료/Consilium_Dev/docs/supabase-job-queue-migration-plan.md",
+    "5. 자료/Consilium_Dev/docs/public-web-architecture.md",
+    "5. 자료/Consilium_Dev/docs/phase1-implementation-todo.md",
+    "5. 자료/Consilium_Dev/docs",
     "5. 자료/Consilium_Dev/frontend/dist/assets/CompareView-J95pFGEu.js",
     "5. 자료/Consilium_Dev/frontend/dist/assets/index-DvmGV9T7.css",
     "5. 자료/Consilium_Dev/frontend/dist/assets/AdminView-BX4oFy2F.js",
@@ -246,8 +250,6 @@
     "3. 프로젝트/Consilium",
     "3. 프로젝트",
     "5. 자료/Consilium_Dev/frontend/dist/assets/CompareView-CyTLVZxJ.js",
-    "5. 자료/Consilium_Dev/frontend/dist/assets/AdminView-CZoFbaHr.js",
-    "5. 자료/Consilium_Dev/frontend/dist/assets/index-DSH9cur2.js",
     "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/numpy-2.4.3.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
     "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/pip-26.0.1.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
     "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/numpy-2.4.3.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md",
@@ -280,8 +282,6 @@
     "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/unstructured_client-0.42.10.dist-info/licenses/LICENSE.md",
     "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/starlette-1.0.0.dist-info/licenses/LICENSE.md",
     "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/soupsieve-2.8.3.dist-info/licenses/LICENSE.md",
-    "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/numpy/random/LICENSE.md",
-    "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/nltk-3.9.3.dist-info/licenses/README.md",
     "무제.canvas",
     "Untitled.canvas"
   ]
