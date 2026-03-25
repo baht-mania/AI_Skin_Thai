@@ -1,0 +1,749 @@
+
+
+=== Eng_Frost Frontier product Intro.pdf ===
+01
+Product
+Introduction
+
+《Frost Frontier 》GAME INTRO
+《Frost Frontier》is a frost-survival themed, medieval-era light war strategy game
+that perfectly captures the essence of classic strategy games while incorporating casual
+synthesis mechanics. Players will assume the role of a feudal lord in this era from raising armies
+and governing territories to gradually conquering the known world.
+User positioning:
+Features:
+•
+Breaks the mold of mindless construction and
+upgrading in traditional strategy games by
+introducing a popular merge-style gameplay.
+•
+The most innovative tactical gameplay system.
+•
+Simple and accessible card development.
+•
+Engaging core gameplay loops and long-term
+objectives.
+•
+Diverse and interactive social features.
+Creative merge strategy mobile game!
+•
+Casual Gamer (Merge-style gameplay)
+•
+Cute Art Style (Appeals to a broad audience,
+including female players)
+•
+Mid-core SLG Players (Targets players who enjoy
+SLGs but seek a more accessible, less pay-to-win
+experience)
+•
+Cross-Category Appeal (Designed to also attract
+players with no prior SLG experience)
+•
+Card Collection & Development (Utilizes a hero
+system to engage players who enjoy card-based
+collection mechanics)
+
+《Frost Frontier 》Design Concept
+•
+Cute-version
+medieval style
+•
+Free synthesis of
+unit buildings
+Theme
+• Infantry, cavalry, and archers
+counter each other
+• Players enhance their armies by
+pairing different heroes
+• Engage in multiplayer battles by
+strategically arranging troop
+formations for varied tactics
+Essence of SLG Battle
+• Compete in the vast world
+• Gather resources to develop
+strength
+• Attack wild monsters to
+collect rewards
+• Participate in battles for
+famous cities and throne
+Exploration
+• Alliance assistance
+• Alliance gifts
+• Alliance bases
+• Alliance warehouses
+• Alliance mines
+• Alliance-based monster
+hunting
+Interactivity
+Internal affaires
+• City Development
+• Soldier Training
+• Hero Development
+• Resource Gathering
+Diplomatic
+• Join the alliance
+• Mutual assistance
+• Share generous rewards
+• Fight the enemy together
+War
+• Scout the enemy
+• Attack the castle
+• Plunder the enemy
+• Activate defense
+Gameplay
+• Battle of Famous Cities
+• Conquest of the Imperial City
+• Trial of the Imperial Tomb
+• Slay the Dark Queen
+System
+Concept
+
+《Frost Frontier 》Features
+Merge Design
+Merging is upgrading! Build houses and barracks, train melee and ranged units, and combine two to upgrade instantly! This
+innovative crafting system eliminates long waiting times for upgrades; simply combine units to level up immediately!
+Territory Expansion: Defeat the Dark Legion to expand your territory. More land means more buildings, faster production,
+and faster training!
+
+《Frost Frontier 》Features
+Clear Game Objectives
+Function Unlock
+Task System
+Server Milestones
+Leveling Up
+Function Unlock
+
+Free Building
+•
+The buildings are divided into functional buildings, including the Imperial City, War Hall, Supply
+Hall, Mine, Tax Hall, Academy, Alchemy Hall, Medical Tent, etc.
+•
+Upgradeable buildings include: cavalry/infantry/ranged barracks, residences, and 45 unit types.
+《Frost Frontier 》Features
+
+Superb Strategy & Intense Battles
+•
+Build, train troops, synthesize, and research technologies to unlock more buildings and unit types,
+with over a hundred awaiting discovery.
+•
+Units are divided into infantry, cavalry, and archers, which counter each other in a rock-paper-scissors
+relationship, each with its own unique enhancement paths.
+•
+By tailoring your army composition to counter enemy formations, you can defeat even stronger foes.
+《Frost Frontier 》Features
+
+《Frost Frontier 》Military Unit Showcase
+
+New Expedition Skins
+New Castle Skins
+《Frost Frontier 》Art
+
+A Battle With Unique Flavor
+•
+Infantry beats cavalry, cavalry beats ranged units,
+and ranged units beat infantry.
+•
+This simple rock-paper-scissors relationship creates
+a variety of interesting combat combinations.
+•
+Players utilize intelligence and strategy to achieve
+a series of victories!
+《Frost Frontier 》Game Battle
+Active War
+•
+Rapid post-war recovery
+•
+Minimal losses during the war
+
+•
+Players can deploy two heroes and lead nine squads
+of soldiers to fight against the enemy. Heroes have
+active and passive skills.
+•
+Each hero possesses unique talents and skills that
+determine their best suited roles. For example, a
+hero with the talent for advanced infantry will
+increase the attack, defense, and health of their
+infantry when leading them.
+•
+Players can freely combine various formations and
+even form large armies of infantry, cavalry, and
+archers together.
+Hero Combinations
+《Frost Frontier 》Game Battle
+
+Expedition PVE System Hundreds of levels and rich storyline experience
+《Frost Frontier 》PVE System
+•
+The Expedition Gate has 10 chapters, each with 30 stages.
+•
+First-time completion rewards are given. And completing the entire chapter grants chapter rewards.
+•
+After clearing the first stage, you can start earning idle rewards, up to 12 hours.
+•
+You can perform 6 sweeps daily, instantly gaining 4 hours of idle rewards. The first sweep is free, and it resets daily at 00:00.
+•
+The first player on the server to clear stages 10 and 20 of each chapter will be inducted into the Hall of Fame, and all players
+on the server can claim rewards.
+
+Alliance
+Assistance:
+When an alliance
+member is
+attacked, other
+players can send
+troops to assist in
+the defense and
+jointly resist the
+enemy's attack.
+Rally Assault:
+Players can initiate
+a rally against
+hostile targets.
+Members of the
+same alliance can
+join the rally,
+forming a coalition
+army to launch a
+joint assault and
+fight together.
+Capitol Conquest：
+Several famous cities
+are scattered across
+the map. Alliances
+can choose to
+participate in the
+struggle for control
+of these cities, and
+gaining control of a
+city will also bring
+generous rewards.
+Imperial City
+Conquest:
+At the center of the map
+stands a majestic Imperial
+City. Every Saturday, its
+ownership becomes
+contested. The alliance
+that successfully captures
+it will be crowned the top
+alliance, appointing one
+Emperor and several
+officials — along with the
+inevitable "rabble"
+(allowing players to
+designate disliked
+individuals as outcasts).
+Single-player PVP:
+Castle raiding allows
+players to raid any
+non-ally's castle on
+the map, and to
+plunder resources
+based on the
+outcome of the battle.
+Multi-layered Warfare - Multiplayer Gameplay
+《Frost Frontier 》Features
+Exquisite Hero Illustrations Original Designs
+
+Exquisite Hero Illustrations
+《Frost Frontier 》Features
+
+Trial Hall
+《Frost Frontier 》Features
+1.
+The Beacon Outpost offers up to 40 tasks, ranging from 1 to 5 stars, with higher star ratings granting better rewards.
+2.
+Completing tasks by deploying troops in the open world rewards players. Finishing a certain number of tasks will upgrade the outpost.
+3.
+The outpost‘s beacons can be replenished by completing tasks. When all five beacons are lit, the next task is guaranteed to be a 5-star
+task. If you dislike the current task, you can spend gems to refresh it.
+4.
+When all tasks are completed, a Morale Boost is triggered. Claiming it will light all beacons, once per day.
+5.
+The Beacon Outpost periodically replenishes tasks. Higher outpost levels accelerate task recovery and increase the number of tasks
+displayed.
+
+Rich Growth Path Mythical Beasts\Mine\Components
+《Frost Frontier 》Features
+
+Hero Synergy System
+1.
+Heroes are divided into three categories: War, Development, and Support.
+2.
+These three categories are further divided into four qualities: Green, Blue, Purple, and Orange.
+3.
+Each hero possesses a fixed talent skill, which determines the hero's synergy.
+•
+War Heroes: Emphasize War stats; primarily responsible for external combat and city defense.
+•
+Development Heroes: Emphasize Development stats; used for resource gathering and construction.
+•
+Support Heroes: Emphasize Support stats; used for healing and technology research.
+《Frost Frontier 》Features
+
+《Frost Frontier 》Features
+In the game, players can collect heroes of different qualities, such as green, blue, purple, and orange. They can
+upgrade heroes, enhance their star rating, learn skills, and combine different troop types to effectively improve
+combat power and defeat all kinds of enemies.
+
+《Frost Frontier 》Hero Training
+Level:
+1.
+Consume experience books to
+level up heroes.
+2.
+Experience books are ranked in
+order of quality: Basic,
+Intermediate, Advanced, Excellent,
+and Legendary. The later the
+quality, the more experience
+books you get.
+3.
+You can use the smart selection
+function to quickly select
+experience books.
+Star Rating:
+1.
+Consume hero shards to upgrade a
+hero's star rating.
+2.
+The higher the star rating, the more
+hero shards are required.
+3.
+The maximum star rating is 5 stars.
+4.
+Each star rating has five stages; you
+need to upgrade all five stages to
+increase the star rating.
+5.
+1-star to 2-star: 4 shards per stage; 2-
+star to 3-star: 12 shards per stage; 3-
+star to 4-star: 36 shards per stage; 4-
+star to 5-star: 72 shards per stage.
+6.
+At 1 star, the hero's level cap is 40; at 2
+stars, it's 60; at 3 stars, it's 80; at 4 stars,
+it's 100; and at 5 stars, it's 120.
+Skills:
+1.
+A hero unlocks a skill slot at levels 20, 60,
+and 100.
+2.
+A skill slot allows a hero to learn one skill.
+3.
+It's generally recommended to learn skills
+related to the hero's preferred troop type.
+4.
+Excess skills can be broken down into skill
+potions.
+5.
+Skill potions can increase skill levels,
+thereby improving skill attributes.
+6.
+The quality ranking of skill potions is the
+same as that of experience books.
+7.
+If you've learned a skill you no longer
+want, you can click the "Forget" button to
+return all resources.
+
+Vibrant Alliance Social Features
+Create an alliance with friends or join one to connect with like-minded players. Allies provide crucial support for survival in a
+war-torn world. The system facilitates coordination for large-scale battles and unlocks group activities such as epic boss
+fights, territory wars, and throne conquests.
+《Frost Frontier 》Features
+1.
+Alliance Technology reflects the alliance's tech level. Players can select a category to donate to.
+2.
+The alliance leader can set a recommended donation focus.
+3.
+Donations are divided into gold donations and gem donations. Gold donation chances regenerate every 30 minutes, up to a
+maximum of 20 charges. Regeneration only resumes after at least one charge is used. Gem donations have no limit.
+4.
+Once a technology is fully donated, new technologies become available for contribution.
+5.
+Each donation grants alliance points, and point rewards may occasionally double.
+
+Unique Mini-Games
+Tower Defense and Circus Gameplay offer a variety of classic mini-games that keep players entertained,
+differentiating it from other hardcore strategy games. 。
+《Frost Frontier 》Features
+Connecting and Tower Defense
+Mining
+Match 3
+
+Mythical Beast System
+The four mythical beasts offer players a richer nurturing experience.
+《Frost Frontier 》Features
+1.
+Mythical beasts can help players increase their combat power.
+2.
+Different mythical beasts have different attributes.
+3.
+Mythical beasts need to be fed with beast spirits.
+4.
+Mythical beasts will unlock skills at level 60.
+
+A Variety of Exciting Activities
+《Frost Frontier 》Features
+1.
+Mines are divided into gold mines and technology mines, each with 5 levels. Higher levels offer better rewards.
+2.
+Occupying a mine grants rewards, and you can also occupy other players' mines, but the rewards are only half of the
+original. You can occupy a maximum of 5 mines per day.
+3.
+Successfully occupying a mine grants points. Higher points make it easier to find higher-level mines.
+4.
+Mines can be refreshed 30 times daily, with the first 5 refreshes being free.
+5.
+Battles inside the mine do not affect heroes and soldiers outside the mine.
+
+Abundant Operational Activities
+《Frost Frontier 》Operational Events
+
+Abundant Operational Activities
+《Frost Frontier 》Operational Events
+
+Abundant Operational Activities
+《Frost Frontier 》Operational Events
+Cumulative Recharge Feature:
+1.
+From player creation, players earn points through recharges within 7 days. Reaching certain point thresholds allows players to claim
+corresponding rewards.
+2.
+Players must claim the previous level's reward before unlocking the next level's reward.
+3.
+The event automatically ends after 7 days, and any unclaimed rewards will also disappear.
+
+《Frost Frontier 》Operational Events
+First Recharge Bonus:
+1.
+Available for purchase from player creation.
+2.
+The first recharge bonus is divided into 3 days. Day 1: SSR hero Fatih,
+60 bound diamonds, 100M gold coins, and 500 tech chests; Day 2:
+Level 5 attack component, 60 bound diamonds, 40 castle blueprints,
+and 3 +50 stamina potions; Day 3: Desert Lord's Banner, 60 bound
+diamonds, 1 peace token, and 3 advanced summoning tokens.
+3.
+Purchasing the bonus will earn recharge points.
+4.
+If you log in on the first day but do not claim the rewards, you can
+claim them on the second and third days.
+5.
+The first recharge bonus can only be purchased once.
+合纵连横(Puzzle Unlock) Event:
+1.
+From player creation, complete tasks within 7 days
+to light up icons and claim rewards.
+2.
+Completing tasks earns rewards and unlocks
+corresponding grids. Unlocking a row of horizontal
+or vertical grids grants additional rewards;
+unlocking all grids unlocks the ultimate reward.
+3.
+The event automatically ends after 7 days, and any
+unclaimed rewards will also disappear.
+
+Regular Event: Path of the King
+1.
+From character creation, a themed quest will be
+available every day. Quests can only be started and
+completed when the quest is available.
+2.
+The quest event lasts for a total of 5 days.
+3.
+Quests that were started but not completed earlier can
+be completed within the first 7 days.
+4.
+Each completed quest will reward you with a
+corresponding reward and 1 Lord's Mark.
+5.
+On the 8th day, you can use the Lord's Marks you
+received to exchange for item rewards.
+Regular Event: Royal City Upgrade
+1.
+From player creation, players can claim
+rewards once their castle level reaches the
+target requirements.
+2.
+There is no time limit for completing the
+task.
+3.
+Each task can be completed to claim the
+corresponding reward.
+4.
+The event ends after all rewards have been
+claimed.
+Regular Event: 7-day Login
+1.
+Log in every day from player creation to
+unlock and claim rewards.
+2.
+All rewards will be unlocked over a total
+of 7 days.
+3.
+All rewards can be claimed after a total
+of 7 login days; 7 consecutive days of
+login are not required.
+4.
+Rewards can be manually claimed by
+logging in each day.
+5.
+The event will end after all rewards have
+been claimed.
+
+Regular Event: Battle Power Ranking
+1.
+Starting from character creation, players will be
+ranked based on their battle power for 5 days.
+2.
+Players can claim rewards for reaching specified
+score thresholds.
+3.
+Increasing battle power will increase event points,
+and rankings will be based on these points.
+4.
+The top left corner of the event page will display the
+remaining time.
+5.
+After the remaining time expires, rewards will be
+distributed based on the rankings, and the event
+will then disappear.
+Regular Event: King’s Handbook
+1.
+From player creation, complete event tasks
+within 15 days to level up your handbook
+and receive level rewards.
+2.
+King's tasks can only be completed once
+during the event period. Daily tasks can be
+repeated and refresh at 00:00 daily.
+3.
+Players can upgrade their handbook to the
+Gold Ranking for even richer rewards.
+4.
+The event will automatically end after 15
+days, and any unclaimed rewards will also
+disappear.
+Regular Event: Diamond Lottery
+1.
+The event starts 7 days after the server launch.
+Players can use diamonds to participate in the
+lottery.
+2.
+The ultimate reward for the Heroes Return event is
+rare hero fragments.
+3.
+Reaching a certain number of lottery draws will
+grant additional treasure chest rewards. Draw
+attempts will be reset after the event ends.
+4.
+The event will automatically end after 7 days, and
+any unclaimed treasure chest rewards will also
+disappear.
+
+Regular Event：永恒高塔
+1. The 1-star tower will be available for the first time at 11:00 AM on the 6th day
+after server launch. The 2-star tower will be available on Wednesday of the
+second week, and the 3-star tower will be available on Saturday of the third
+week.
+2. After the initial opening, the 1-star, 2-star, and 3-star towers will be available
+for competition every Monday, Wednesday, and Saturday at 11:00 AM, with
+each competition lasting 1 hour.
+3. The alliance of the player who destroys the last 1 point of defense value of a
+tower will directly occupy the tower and enter a truce state. If the alliance has
+reached its occupation limit, the alliance with the most damage will occupy it.
+4. Each alliance can occupy a total of 3 1-star towers, 2 2-star towers, and 2 3-
+star towers.
+5. The tower's defense and guard values will be reset each time it enters a truce
+state.
+6. The first time a tower is occupied, a first-occupation reward will be given to
+alliance members. Players will be ranked, and rewards will be distributed
+according to the ranking. There will be no more first-occupation rewards after
+the tower is first occupied.
+7. The tower level can be increased through member donations. Each tower has
+an independent level when occupied by each alliance.
+
+《Frost Frontier 》Commercialization
+Diamond Shop:
+1.
+Daily Check-in: Log in daily to receive a
+reward containing 3 Normal Summoning
+Orders and 1 5-minute Healing Speed-up.
+2.
+Two ¥0.99 gift packs are available for
+purchase on the page. The first pack
+contains 2 Normal March Speed-ups and
+5 5-minute Healing Speed-ups; the
+second pack contains 1 8-hour Peace
+Token and 50 Castle Blueprints.
+Monthly/Weekly Subscription：
+1.
+Available for purchase from character creation
+2.
+Purchasing a monthly card immediately grants 680
+bound diamonds, followed by 340 bound
+diamonds daily for a full month, totaling 10,540
+bound diamonds.
+3.
+Purchasing a weekly card immediately grants 60
+bound diamonds, followed by 50 bound diamonds
+daily for a full week, totaling 360 bound diamonds.
+4.
+Purchasing gift packs earns recharge points.
+
+Regular Event: Famous City Conquest
+1.
+The first round of events will begin on the 9th day after the
+server launch, and it will then cycle weekly.
+2.
+Every Sunday, Tuesday, and Thursday, from 00:00 to 20:00, is the
+siege registration period; from 20:00 to 21:00, is the siege phase.
+Players can send troops to attack the city.
+3.
+During a siege, players will gain occupation points every minute.
+Once the occupation points are full, the player gains ownership
+of the city. If the occupation points are not full before the last
+siege of the week, the alliance that last occupies the city will
+gain ownership.
+4.
+The city's rewards phase continues until 24:00 on Saturday of
+the same week. The alliance that holds ownership will continue
+to receive rewards.
+5.
+Players cannot leave or switch alliances during the city siege.
+
+Regular Event: Imperial City Conquest
+1.
+The Imperial City battle opens on Friday of the fourth week after server launch at
+20:00, and then every Friday thereafter.
+2.
+The Imperial City battle is divided into three phases:
+Phase 1 (20:00-21:00): To capture the Imperial City, you must hold it for 60 minutes.
+Phase 2 (21:00-22:00): To capture the Imperial City, you must hold it for 30 minutes.
+Phase 3 (22:00-22:30): If control of the Imperial City changes during this phase, the
+battle ends, and the Emperor is ineligible for that round.
+3.
+Losses during the Imperial City battle... 4. After successfully capturing the Imperial
+City, the alliance leader can designate a player to be crowned Emperor. Players
+without an alliance who successfully capture the city automatically become
+Emperor.
+4.
+The Emperor can appoint designated players as officials or commoners.
+5.
+The Emperor and officials receive attribute bonuses, while commoners receive
+attribute reduction penalties.
+6.
+The Emperor can distribute gift packs to players who made outstanding
+contributions in the battle for the Imperial City.
+7.
+The Emperor and officials can issue national policies and decrees.
+8.
+National policies and decrees require silver coins; players can donate silver coins to
+the national treasury.
+9.
+Players dissatisfied with the current Emperor and officials can cause disturbances
+or sabotage.
+
+Thanks！
+
+=== 프로스트 킹덤(Frost Kingdom) 퍼블리싱 및 초기 모객 플랜.pdf ===
+프로스트 킹덤(Frost Kingdom) 퍼블리싱 및 초기 모객
+플랜
+
+
+1. 타겟 국가 선정
+●​ 메인 타겟: 동남아시아 (SLG 장르 및 블록체인 모델의 흥행성이 검증된 핵심 지역)
+●​ 서브 타겟 (기타 글로벌):
+○​ SLG 강세 리전: 한국, 중국, 북미 (고과금 유저층 집중 공략)
+○​ 블록체인 강세 리전: 남미 (대규모 유저 유입 및 생태계 활성화 유도)
+
+2. 리전 준비
+●​ ‘글로벌 원서버’
+○​ 타 프로젝트와 같이 동남아 / 남미로 나눌 시, 남미 서버는 국가 간 대전 같은
+핵심 경쟁 컨텐츠에서 리전 자체가 소외될 우려
+●​ 네트워크 가속: AWS Global Accelerator 도입으로 북미/남미 등 원거리 유저의 지연
+시간(Latency) 최적화
+
+3. 언어 지원
+●​ 메인 타겟: 태국어, 베트남어, 인도네시아어
+●​ 중화권: 간체 및 번체 지원
+●​ 기타 글로벌: 영어/한국어
+
+4. 퍼블리싱 & 초기 모객 전략
+●​ 기본 방향: 게임 *런칭 전부터 '길드 및 국가 대항전' 구도를 선제적으로 구축하여
+유저 응집력 확보​
+
+●​ 길드 / 국가 대항전:
+○​ 2중 보상풀: 길드 및 국가 단위의 개별 보상 체계 운용
+○​ 길드 보상: 최상위 길드 대상 별도 상금풀 배정을 통한 하드코어 유저 간 고도
+경쟁 유도
+○​ 국가 보상: 상위 리전에 보상을 배분하여 '소속 국가'의 승리를 위한 전 유저의
+참여 독려
+○​ 전략적 목표: 과도한 경쟁 스트레스를 '국가 소속감'으로 승화시켜 매출
+성장(ARPPU)과 잔존율 동시 확보​
+
+
+●​ KOL(Key Opinion Leader): 동남아 및 글로벌 핵심 KOL을 '연맹장'으로 포섭하여
+초기 팬덤 유입 극대화​
+
+●​ WAVE: 국가/길드 대전 기반의 상금풀 캠페인 전개를 통해 길드 조직의 자발적
+바이럴 유도​
+​
+
+●​ 크로스 플레이(Cross Play): *직접 유입보다는 '바이럴 화력 지원' 및 '홍보 서포터즈'
+역할로 활용
+○​ 아군 진영(국가/길드) 유튜브 채널 응원 댓글 게시
+○​ 상대 진영(경쟁 국가/길드) 유튜브 채널 도발 댓글 게시
+○​ 개인 SNS 내 국가 응원 포스팅 게시
+○​ 보상 체계: 개별 활동에 대한 기본 보상 및 전체 미션 완료 시 추첨 보상 지급
+○​ 기대 효과: KOL 및 스트리머가 구축한 대결 구도에 플랫폼 유저의 화력을
+더해 바이럴 확산 가속화​
+
+🚀 초기 모객 실행 플랜 (4-Step)
+●​ 1단계: [선점] 국가 대표(KOL) 포섭 및 진영 구축 (D-30)
+○​ 핵심: *대형 KOL을 '국가별 총사령관'으로 임명하여 런칭 전 팬덤 결집
+○​ 실행: 국가별 KOL이 SNS 및 디스코드를 통해 국가 자존심을 건 연맹원 모집
+및 대규모 길드 연합 구성​
+
+●​ 2단계: [확산] CROSS Wave 기반 '모병 작전' (D-14)
+○​ 핵심: 중소 스트리머들이 대형 KOL이 조성한 국가 대항 분위기에
+참여하도록 유도
+○​ 실행: 상금풀 오픈을 통해 중소 스트리머의 자국 유저 모집 독려 및 커뮤니티
+내 진영 간 바이럴 극대화
+●​ ​
+3단계: [확산] CROSS 플레이 기반 '화력 지원 작전' (D-14)
+○​ 핵심: 플랫폼 유저를 투입하여 KOL 및 스트리머가 셋업한 길드 화력 증폭
+○​ 실행: 미션 수행을 통한 외부 채널 도배 및 공유 활동으로 전쟁 분위기 고조​
+
+●​ 4단계: [폭발] 런칭과 동시에 '국가 명예 대항전' 발발 (D-Day)
+○​ 핵심: 사전 빌드업된 결속력에 '길드 & 국가 2중 보상'을 투입하여 초기 화력
+폭발
+○​ 실행: 런칭 직후 사전 결성 연맹 간 즉시 교전 돌입 및 자존심 대결을 통한
+결제 경쟁 구조 구축
+
+—---------
+기타 논의사항
+
+1.​ 시즌제 필요한가?
+a.​ 시즌제는 필요하다
+i.​
+비 시즌 시 서버 구도가 고착화 -> 신규 유저 유입 중단 리스크 우려
+2.​ 서버간 대전 초기에 필요한가?
+
+a.​ 애초에는 서버간 대전이 필요없도록 서버 자체가 적도록  -> 최대한 한 서버
+우겨넣기 -> 이후에 서버 확충 -> 다시 그 이후에 서버 간 대전
+b.​ 사전에 형성된 KOL간의 경쟁 구도가 서버 간에 흩어지지 않게 하기 위함
+c.​ 서버간 대전은 시간이 좀 더 소요되더라도 나중에 필요할 때 넣는게 좋을 듯
+3.​ 프로젝트명
+a.​ 개발사 제안 : 탭탭킹덤 ( 전작 : 머지킹덤 )
+b.​ 우리쪽 제안
+i.​
+제이 : 프로스트 킹덤
+ii.​
+중민 : 머지 킹덤2 : 프로즌 월드? 얼어붙은 세계 ( 뭐 이런 느낌으로…
+전작의 유저 흡수 )
+1.​ 전작 라이센스 홀더 한번 체크 필요
+—-----------
