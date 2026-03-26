@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TASKS.md",
+                "file": "0. 대화 기록/2026-03-26 데일리 리뷰.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TASKS"
+              "title": "2026-03-26 데일리 리뷰"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASKS.md",
+                "file": "0. 대화 기록/2026-03-26 데일리 리뷰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "TASKS 의 백링크"
+              "title": "2026-03-26 데일리 리뷰 의 백링크"
             }
           },
           {
@@ -236,27 +236,30 @@
   },
   "active": "3fd7f27be181ba00",
   "lastOpenFiles": [
+    "5. 자료/Consilium_Dev/supabase/migrations/20260326_008_create_usage_events.sql",
+    "5. 자료/Consilium_Dev/backend/app/repositories/usage.py",
+    "5. 자료/Consilium_Dev/frontend/dist/assets/index-Cc51bfpC.js",
+    "5. 자료/Consilium_Dev/frontend/dist/assets/CompareView-LDXtyKPn.js",
+    "5. 자료/Consilium_Dev/frontend/dist/assets/SharedReportView-BkFxphOj.js",
+    "5. 자료/Consilium_Dev/frontend/dist/assets/AdminView-DBVRUuKJ.js",
+    "5. 자료/Consilium_Dev/frontend/dist/assets/SampleReportView-BZbdTjjh.js",
+    "5. 자료/Consilium_Dev/frontend/dist/assets/index-C1Mm5gqs.css",
+    "1. 메모용/메모장_260301_무제.md",
+    "3. 프로젝트/Consilium/코드 리뷰 - Codex 2026-03-24.md",
+    "4. 프로젝트/Consilium/2026-03-22 운영 교훈.md",
+    "🏠 홈.md",
+    "2026-03-19.md",
+    "무제.canvas",
+    "GDC 페이지 수정사항.md",
+    "TASKS.md",
     "5. 자료/Consilium_Dev/frontend/dist/assets/CompareView-Dfb8oQVm.js",
     "5. 자료/Consilium_Dev/frontend/dist/assets/AdminView-DNmKvHbC.js",
     "5. 자료/Consilium_Dev/frontend/dist/assets/SampleReportView-ClDxenW1.js",
-    "5. 자료/Consilium_Dev/frontend/dist/assets/SharedReportView-CJPVh0rD.js",
-    "5. 자료/Consilium_Dev/frontend/dist/assets/index-oAVqJFH_.js",
-    "5. 자료/Consilium_Dev/frontend/dist/assets/index-BZkMo_sB.css",
-    "5. 자료/Consilium_Dev/backend/app/repositories/__pycache__/plans.cpython-314.pyc",
-    "5. 자료/Consilium_Dev/supabase/migrations/20260326_007_create_plans_and_subscriptions.sql",
-    "5. 자료/Consilium_Dev/backend/app/repositories/plans.py",
-    "5. 자료/Consilium_Dev/frontend/dist/assets/CompareView-QHvwLU9L.js",
-    "5. 자료/Consilium_Dev/frontend/dist/assets/AdminView-CNjm9cYR.js",
     "Nexus/Gravity/2026-03-26 — Gravity GGT 태국 출장 승인 요청.md",
     "0. 대화 기록/2026-03-26 데일리 리뷰.md",
-    "GDC 페이지 수정사항.md",
     "3. 미팅/세시소프트_3월 24일.md",
-    "2026-03-19.md",
     "5. 자료/Consilium_Dev/Consilium 상품화 로드맵.md",
     "5. 자료/Consilium_Dev/docs/commercialization-roadmap.md",
-    "무제.canvas",
-    "3. 프로젝트/Consilium/코드 리뷰 - Codex 2026-03-24.md",
-    "4. 프로젝트/Consilium/2026-03-22 운영 교훈.md",
     "4. 프로젝트/신규 프로젝트 (태국 화장품 사업).md",
     "4. 프로젝트/신규 프로젝트 (아고고 푸잉 찾기).md",
     "3. 미팅/씨댄스 2.0.md",
@@ -270,9 +273,6 @@
     "0. 대화 기록/2026-03-25 데일리 리뷰.md",
     "0. 대화 기록/2026-03-25.md",
     "5. 자료/Consilium_Dev/docs/supabase-job-queue-migration-plan.md",
-    "5. 자료/Consilium_Dev/docs/public-web-architecture.md",
-    "5. 자료/Consilium_Dev/docs/phase1-implementation-todo.md",
-    "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/numpy-2.4.3.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
     "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/networkx/drawing/tests/baseline/test_display_empty_graph.png",
     "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/networkx/drawing/tests/baseline/test_display_house_with_colors.png",
     "5. 자료/Consilium_Dev/backend/venv/lib/python3.11/site-packages/networkx/drawing/tests/baseline/test_house_with_colors.png",
