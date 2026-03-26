@@ -236,6 +236,8 @@
   },
   "active": "3fd7f27be181ba00",
   "lastOpenFiles": [
+    "5. 자료/Consilium_Dev/backend/app/services/__pycache__/pricing.cpython-314.pyc",
+    "5. 자료/Consilium_Dev/backend/app/services/pricing.py",
     "5. 자료/Consilium_Dev/backend/app/repositories/__pycache__/credits.cpython-314.pyc",
     "5. 자료/Consilium_Dev/backend/app/api/__pycache__/billing.cpython-314.pyc",
     "5. 자료/Consilium_Dev/supabase/migrations/20260326_006_create_credit_accounts.sql",
@@ -245,8 +247,6 @@
     "5. 자료/Consilium_Dev/supabase/migrations/20260326_004_add_jobs_org_id.sql",
     "5. 자료/Consilium_Dev/frontend/dist/assets/CompareView-Bi6YhVaQ.js",
     "5. 자료/Consilium_Dev/frontend/dist/assets/AdminView-DJh_b2HA.js",
-    "5. 자료/Consilium_Dev/frontend/dist/assets/index-MqvsrG-v.js",
-    "5. 자료/Consilium_Dev/frontend/dist/assets/SharedReportView-DGFLS3D2.js",
     "Nexus/Gravity/2026-03-26 — Gravity GGT 태국 출장 승인 요청.md",
     "0. 대화 기록/2026-03-26 데일리 리뷰.md",
     "GDC 페이지 수정사항.md",
