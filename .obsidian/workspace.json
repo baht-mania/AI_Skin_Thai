@@ -236,6 +236,8 @@
   },
   "active": "3fd7f27be181ba00",
   "lastOpenFiles": [
+    "5. 자료/Consilium_Dev/supabase/migrations/20260326_007_create_plans_and_subscriptions.sql",
+    "5. 자료/Consilium_Dev/backend/app/repositories/plans.py",
     "5. 자료/Consilium_Dev/frontend/dist/assets/CompareView-QHvwLU9L.js",
     "5. 자료/Consilium_Dev/frontend/dist/assets/AdminView-CNjm9cYR.js",
     "5. 자료/Consilium_Dev/frontend/dist/assets/SharedReportView-CHGL4ytL.js",
@@ -245,8 +247,6 @@
     "5. 자료/Consilium_Dev/frontend/dist/assets/AdminView-BjSNOGF8.js",
     "5. 자료/Consilium_Dev/frontend/dist/assets/CompareView-LkQqCU3I.js",
     "5. 자료/Consilium_Dev/frontend/dist/assets/index-CwWmzZeA.js",
-    "5. 자료/Consilium_Dev/frontend/dist/assets/SharedReportView-CpgeI7Bz.js",
-    "5. 자료/Consilium_Dev/frontend/dist/assets/SampleReportView-CJ-MvZ17.js",
     "Nexus/Gravity/2026-03-26 — Gravity GGT 태국 출장 승인 요청.md",
     "0. 대화 기록/2026-03-26 데일리 리뷰.md",
     "GDC 페이지 수정사항.md",
